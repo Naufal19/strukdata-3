@@ -1,5 +1,5 @@
 //	Nama	: Naufal Ariful Amri
-//	NPM		: 140810180009
+//	NPM	: 140810180009
 //	Kelas	: A
 //	Date	: 12 Maret 2019
 //	Desc	: ex 1
